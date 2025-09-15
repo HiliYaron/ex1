@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ex1</string>
+
+    <string name="s1">Hello this is a demonstration</string>
+    <string name="name">Your Name:</string>
+    <string name="botton">Press me!</string>
+    <string name="s4">option1</string>
+    <string name="s5">option2</string>
+    <string name="s6">option2</string>
+    <string name="s7">Alternative1</string>
+    <string name="s8">Alternative2</string>
+</resources>
